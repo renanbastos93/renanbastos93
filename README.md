@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😎 I'm currently contributing to [Go Fiber](https://github.com/gofiber/fiber)
 - :earth_americas: I'm from Porto Alegre, RS - Brazil
 - :video_game: I like to play video games
-- :notes: I like to play piano (:musical_keyboard:)
+- :notes: I like to play the piano (:musical_keyboard:)
 
 
 ## Social media :mailbox_with_no_mail:
