@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Renan Bastos 👋
 
-- 🔭 I'm currently working as a Software Engineer at [Azion Technologies](https://github.com/aziontech)
+- 🔭 I'm currently working as a Software Engineer at [Traders Club](https://github.com/tradersclub)
 - 😎 I'm currently contributing to [Go Fiber](https://github.com/gofiber/fiber)
 - :earth_americas: I'm from Porto Alegre, RS - Brazil
 - :video_game: I like to play video games
