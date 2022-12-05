@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 
 # Hi, I'm Renan Bastos 👋
+I have been working with over 6+ years of experience in technology.
 
 <!-- - 🔭 I'm currently working as a Staff Engineer -->
 <!-- - at [Traders Club](https://github.com/tradersclub) -->
 - 😎 I'm currently contributing to [Go Fiber](https://github.com/gofiber/fiber)
-- :earth_americas: I'm from Porto Alegre, RS - Brazil
+- :earth_americas: I'm from Florianópolis, SC - Brazil
 - :video_game: I like to play video games
 - :notes: I like to play the piano (:musical_keyboard:)
 
