@@ -24,7 +24,7 @@ I have been working with over 6+ years of experience in technology.
 - 😎 I'm currently contributing to [Go Fiber](https://github.com/gofiber/fiber)
 - :earth_americas: I'm from Florianópolis, SC - Brazil
 - :video_game: I like to play video games
-- :notes: I like to play the piano (:musical_keyboard:)
+- :surfing_man: I like to go surfing
 
 
 ## Social media :mailbox_with_no_mail:
