@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # Hi, I'm Renan Bastos 👋
-I have been working with over 6+ years of experience in technology.
+I have been working with over 8+ years of experience in technology.
 
 <!-- - 🔭 I'm currently working as a Staff Engineer -->
 <!-- - at [Traders Club](https://github.com/tradersclub) -->
