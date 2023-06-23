@@ -19,12 +19,10 @@ Here are some ideas to get you started:
 # Hi, I'm Renan Bastos 👋
 I have been working with over 8+ years of experience in technology.
 
-<!-- - 🔭 I'm currently working as a Staff Engineer -->
-<!-- - at [Traders Club](https://github.com/tradersclub) -->
-- 😎 I'm currently contributing to [Go Fiber](https://github.com/gofiber/fiber)
-- :earth_americas: I'm from Florianópolis, SC - Brazil
+- 😎 I've been contributing to [Go Fiber](https://github.com/gofiber/fiber)
+- :earth_americas: I'm living in Florianópolis, SC - Brazil
 - :video_game: I like to play video games
-- :surfing_man: I like to go surfing
+- ⚡ I like to go surfing :surfing_man:, biking, and hiking.
 
 
 ## Social media :mailbox_with_no_mail:
