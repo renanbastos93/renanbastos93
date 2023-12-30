@@ -11,9 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <img align="right" width="274" height="237" src="https://www.pinclipart.com/picdir/big/571-5718253_golang-gopher-png-clipart.png">
+-->
+
 
 
 # Hi, I'm Renan Bastos 👋
